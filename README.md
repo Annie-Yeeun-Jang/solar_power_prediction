@@ -1,5 +1,5 @@
 # Solar Power Generation Prediction
-## Solar Power Generation Prediction, Personal Project                   May 2021 – Jul 2021
+## Solar Power Generation Prediction, Personal Project,                   May 2021 – Jul 2021
 * Developed a model predicting time series weather forecast data by using XGBoost, LightGBM, NeuralProphet, and 1-Dimensional-CNN (used 1D CNN as a final model)
 * Developed an additional model predicting insolation and the amount of sunshine of the next day using forecast data to reduce error rate by 70%, achieving top 3% on leaderboard
 
